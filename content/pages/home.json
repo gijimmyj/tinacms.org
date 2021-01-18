@@ -26,7 +26,11 @@
     "steps": [
       {
         "_template": "setup_point",
-        "step": "Install and configure Tina plugins"
+        "step": "Install and configure Tina this is a test"
+      },
+      {
+        "_template": "setup_point",
+        "step": "Make yourself a dang quesadilla"
       },
       {
         "_template": "setup_point",
